@@ -1,6 +1,11 @@
 {
-	profile:{
-		name:"Manish Singh",
-		dob:"12-jan-1992"
-	}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
